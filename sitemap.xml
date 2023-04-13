@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>/Contacto.html</loc>
+    </url>
+    <url>
+        <loc>/Especialidades.html</loc>
+    </url>
+    <url>
+        <loc>/Historoia.html</loc>
+    </url>
+    <url>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/InicioSesion.html</loc>
+    </url>
+    <url>
+        <loc>/MaterialMayor.html</loc>
+    </url>
+    <url>
+        <loc>/Noticias.html</loc>
+    </url>
+    <url>
+        <loc>/Postulacion.html</loc>
+    </url>
+    <url>
+        <loc>/Voluntarios.html</loc>
+    </url>
+</urlset>
